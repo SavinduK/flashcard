@@ -1,0 +1,53 @@
+{
+  "folders": [
+    {
+      "name": "Anatomy",
+      "subfolders": [
+        { "name": "Gross Anatomy", 
+          "subfolders": [
+        { "name": "term 1" },
+        { "name": "term 2" },
+        { "name": "term 3" },
+        { "name": "term 4" }
+      ]
+      },
+        { "name": "Histology",
+          "subfolders": [
+        { "name": "term 1" },
+        { "name": "term 2" },
+        { "name": "term 3" },
+        { "name": "term 4" }
+      ]
+      },
+        { "name": "Embryology",
+          "subfolders": [
+        { "name": "term 1" },
+        { "name": "term 2" },
+        { "name": "term 3" },
+        { "name": "term 4" }
+      ]
+      }
+      ]
+    },
+    {
+      "name": "Physiology",
+      "subfolders": [
+        { "name": "term 1" },
+        { "name": "term 2" },
+        { "name": "term 3" },
+        { "name": "term 4" }
+
+      ]
+    },
+    {
+      "name": "Biochemistry",
+      "subfolders": [
+        { "name": "term 1" },
+        { "name": "term 2" },
+        { "name": "term 3" },
+        { "name": "term 4" }
+
+      ]
+    }
+  ]
+}
